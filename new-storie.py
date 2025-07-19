@@ -16,17 +16,12 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "The Affair That Ended in Blood", "The Final Update: A Reddit User Vanishes",
- "Relationship Advice Gone Fatally Wrong", "Love, Lies & a Missing Redditor", 
- "The Cheating Thread That Turned Deadly", "AITA Update: She Never Came Back",
- "Open Marriage, Hidden Motives", "Open Relationship, Closed Case", "Ex-Boyfriend Caught… Then Disappeared",
- "She Told Her Cheating Story — Then Was Silenced", "Reddit’s Ex-GF Confession Turns Criminal",
- "AskReddit: Surviving Infidelity or Planning Revenge?", "GurlCan’s Last Post Before the Incident", 
- "The Cheating Story That Actually Happened — And Remains Unsolved", "She Said It Was a ‘True Cheating Story’… Police Say Otherwise",
- "Reddit Cheating Confession Turns Into a Cold Case", "R/Surviving Infidelity — But What If Someone Didn't?",
- "Surviving Infidelity or Covering Up a Crime?", "Reddit Marriage: Where Did the Husband Go?",
- "Wife Cheated — He Couldn't Forgive. Now She's Missing.", "Reddit AP: A Partner in Love… or in Murder?",
- "Exposed Wife: What She Hid Wasn't Just an Affair", "Cheat Exposed — So Was the Body"
+ "Ancient Civilizations", "World War II", "Roman Empire", "Medieval History", "Historical Battles",
+ "American Revolution", "Forgotten History", "Civilizations That Disappeared", "Historical Conspiracies", 
+ "True Crime History", "History of Japan", "History of the Entire World", "Animated History,
+ "World War II explained", "Roman Empire animated", "Medieval weapons history", "Rise and fall of civilizations", 
+ "How did [civilization] collapse?", "History of Japan cartoon", "Primitive technology building [structure]"
+
 
 ]
 
