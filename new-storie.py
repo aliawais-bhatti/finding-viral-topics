@@ -18,7 +18,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 keywords = [
  "Ancient Civilizations", "World War II", "Roman Empire", "Medieval History", "Historical Battles",
  "American Revolution", "Forgotten History", "Civilizations That Disappeared", "Historical Conspiracies", 
- "True Crime History", "History of Japan", "History of the Entire World", "Animated History,
+ "True Crime History", "History of Japan", "History of the Entire World", "Animated History",
  "World War II explained", "Roman Empire animated", "Medieval weapons history", "Rise and fall of civilizations", 
  "How did [civilization] collapse?", "History of Japan cartoon", "Primitive technology building [structure]"
 
